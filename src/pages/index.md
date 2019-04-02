@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: How life is happening
+title: Life is just happening
 image: /img/kaushik-panchal-37070-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
