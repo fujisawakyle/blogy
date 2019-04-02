@@ -39,11 +39,11 @@ const Footer = class extends React.Component {
                         Latest Posts
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
+                    </li> */}
                     {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
