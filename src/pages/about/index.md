@@ -6,4 +6,4 @@ title: About me
 
 This is my journal of figuring it out :)
 
-![kyle portrait](/img/img_8686.jpg "Picture of me!")
+![kyle portrait](/img/kyle.jpg "Picture of me!")
